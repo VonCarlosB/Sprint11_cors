@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    margin: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+#characterInfo{
+    width: max-content;
+    margin-top: 15px;
+    padding: 0 10px;
+}
+
+.border{
+    border: 2px solid black;
+    border-radius: 15px;
+}
